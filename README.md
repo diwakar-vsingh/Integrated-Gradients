@@ -6,5 +6,7 @@ This project studied the IG attribution method and identified the fundamental ax
 
 ## References
 [1] M. Sundararajan, A. Taly, and Q. Yan, “Axiomatic attribution for deep networks,” arXiv preprint arXiv:1703.01365, 2017.
+
 [2] P. K. Mudrakarta, A. Taly, M. Sundararajan, and K. Dhamdhere, “Did the model un- derstand the question?,” arXiv preprint arXiv:1805.05492, 2018.
+
 [3] P. Sturmfels, S. Lundberg, and S.-I. Lee, “Visualizing the impact of feature attribution baselines,” Distill, vol. 5, no. 1, p. e22, 2020.
